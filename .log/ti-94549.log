@@ -1,0 +1,18 @@
+[18:14:52.433] Global cache location '/Users/chizhang/Library/Caches/typescript/3.7', safe file path '/users/chizhang/.config/yarn/global/node_modules/typescript/lib/typingsafelist.json', types map path /users/chizhang/.config/yarn/global/node_modules/typescript/lib/typesmap.json
+[18:14:52.435] Processing cache location '/Users/chizhang/Library/Caches/typescript/3.7'
+[18:14:52.437] Trying to find '/Users/chizhang/Library/Caches/typescript/3.7/package.json'...
+[18:14:52.438] Loaded content of '/Users/chizhang/Library/Caches/typescript/3.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.486"}}
+[18:14:52.438] Loaded content of '/Users/chizhang/Library/Caches/typescript/3.7/package-lock.json'
+[18:14:52.438] Finished processing cache location '/Users/chizhang/Library/Caches/typescript/3.7'
+[18:14:52.439] Process id: 94550
+[18:14:52.439] NPM location: /Users/chizhang/.nvm/versions/node/v8.12.0/bin/npm (explicit '--npmLocation' not  provided)
+[18:14:52.439] validateDefaultNpmLocation: false
+[18:14:52.439] Npm config file: /Users/chizhang/Library/Caches/typescript/3.7/package.json
+[18:14:52.439] Updating types-registry npm package...
+[18:14:52.439] Exec: /Users/chizhang/.nvm/versions/node/v8.12.0/bin/npm install --ignore-scripts types-registry@latest
+[18:14:54.27]     Succeeded. stdout:
+    + types-registry@0.1.486
+    updated 1 package in 0.897s
+
+[18:14:54.28] Updated types-registry npm package
+[19:20:3.11] Parent process has exited, shutting down...

@@ -1,0 +1,16 @@
+[4:33:23.632] Global cache location '/Users/chizhang/Library/Caches/typescript/3.7', safe file path '/users/chizhang/.config/yarn/global/node_modules/typescript/lib/typingsafelist.json', types map path /users/chizhang/.config/yarn/global/node_modules/typescript/lib/typesmap.json
+[4:33:23.634] Processing cache location '/Users/chizhang/Library/Caches/typescript/3.7'
+[4:33:23.635] Trying to find '/Users/chizhang/Library/Caches/typescript/3.7/package.json'...
+[4:33:23.636] Finished processing cache location '/Users/chizhang/Library/Caches/typescript/3.7'
+[4:33:23.637] Process id: 94538
+[4:33:23.637] NPM location: /Users/chizhang/.nvm/versions/node/v8.12.0/bin/npm (explicit '--npmLocation' not  provided)
+[4:33:23.637] validateDefaultNpmLocation: false
+[4:33:23.637] Npm config file: /Users/chizhang/Library/Caches/typescript/3.7/package.json
+[4:33:23.637] Npm config file: '/Users/chizhang/Library/Caches/typescript/3.7/package.json' is missing, creating new one...
+[4:33:23.638] Updating types-registry npm package...
+[4:33:23.638] Exec: /Users/chizhang/.nvm/versions/node/v8.12.0/bin/npm install --ignore-scripts types-registry@latest
+[4:33:25.519]     Succeeded. stdout:
+    + types-registry@0.1.486
+    added 1 package from 1 contributor in 0.953s
+
+[4:33:25.519] Updated types-registry npm package

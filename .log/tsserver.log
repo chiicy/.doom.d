@@ -1,0 +1,21 @@
+Info 0    [18:14:52.155] Starting TS Server
+Info 1    [18:14:52.157] Version: 3.7.4
+Info 2    [18:14:52.157] Arguments: /Users/chizhang/.nvm/versions/node/v8.12.0/bin/node /usr/local/bin/tsserver --logFile /Users/chizhang/.doom.d/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/bv/1jwyj0fj2b51z912fwb4m35h0000gn/T/c7d60ced36ad86024ff1caa3267b7d92/tscancellation*
+Info 3    [18:14:52.157] Platform: darwin NodeVersion: 8 CaseSensitive: false
+Info 4    [18:14:52.175] Search path: /Users/chizhang/.doom.d
+Info 5    [18:14:52.176] For info: /Users/chizhang/.doom.d/test.ts :: No config files found.
+Info 6    [18:14:52.182] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 7    [18:14:52.795] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 613ms
+Info 8    [18:14:52.795] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 9    [18:14:52.795] 	Files (6)
+
+Info 10   [18:14:52.795] -----------------------------------------------
+Info 11   [19:17:12.413] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [19:17:12.450] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 34ms
+Info 13   [19:17:12.451] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 14   [19:17:15.679] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 15   [19:17:15.684] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 5ms
+Info 16   [19:17:15.684] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 17   [19:17:16.539] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 18   [19:17:16.542] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false Elapsed: 3ms
+Info 19   [19:17:16.543] Different program with same set of files:: oldProgram.structureIsReused:: 2
